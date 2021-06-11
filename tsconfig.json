@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "System",
+        "outDir": "js",
+        "watch": true
+    },
+    "exclude": ["css","fonts","images","lib","js",]
+    
+}
